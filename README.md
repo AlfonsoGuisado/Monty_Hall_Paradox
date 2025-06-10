@@ -9,7 +9,7 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 - **📚 Mathematical Explanation:** Dive into the theoretical underpinnings of the paradox.
 
 #### 🛠️ Main Tools:  
-| ![Python](https://img.shields.io/badge/Python-3.12-10-blue) | 
+| ![Python](https://img.shields.io/badge/Python-3.12.10-blue) | 
 |---|
 | ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Used-success) |
 
