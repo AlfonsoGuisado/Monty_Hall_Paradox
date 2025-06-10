@@ -11,6 +11,6 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 #### 🛠️ Main Tools:  
 | ![Python](https://img.shields.io/badge/Python-3.12.10-blue) | 
 |---|
-| ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-yellowgreen) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.1-blue) ![NumPy](https://img.shields.io/badge/NumPy-2.2.4-orange) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-lightgrey) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-1.6.1-success) |
+|  ![NumPy](https://img.shields.io/badge/NumPy-2.2.4-success) ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-success) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.1-success) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-success) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-1.6.1-success) |
 
 🌍 **Language:** Spanish
