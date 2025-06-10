@@ -10,5 +10,6 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 
 #### 🛠️ Tools:  
 | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | ![OptBinning](https://img.shields.io/badge/OptimalBinning-Supervised_Binning-blue) |
+|---|---|
 
 🌍 **Language:** Spanish
