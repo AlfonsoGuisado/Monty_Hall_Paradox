@@ -9,8 +9,8 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 - **📚 Mathematical Explanation:** Dive into the theoretical underpinnings of the paradox.
 
 #### 🛠️ Main Tools:  
-| [![Dependencies](https://img.shields.io/badge/Dependencies-up%20to%20date-success?style=flat-square&logo=python)](#) |
-|---|---|
-| ![Python](https://img.shields.io/badge/Python-3.12.10-blue) | ![NumPy](https://img.shields.io/badge/NumPy-2.2.4-green) ![Pandas](https://img.shields.io/badge/Pandas-2.2.3-green) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.1-green) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-green) |
+| ![Python](https://img.shields.io/badge/Python-3.12.10-blue) |
+|---|
+| [![NumPy](https://img.shields.io/badge/NumPy-2.2.4-green)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-2.2.3-green)](https://pandas.pydata.org/) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.1-green) ![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-green) |
 
 🌍 **Language:** Spanish
