@@ -4,9 +4,9 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 
 #### 🚩 Key Features:
 
-- **🎲 Simulation:** Visualize the paradox in action and understand its outcomes.
-- **🤖 Machine Learning:** Apply ML techniques to predict outcomes and gain deeper insights.
-- **📚 Mathematical Explanation:** Dive into the theoretical underpinnings of the paradox.
+- **![Simulation](https://img.shields.io/badge/🎲_Simulation-Visual_Paradox-lightblue):** Visualize the paradox in action and understand its outcomes.
+- **![Machine Learning](https://img.shields.io/badge/🤖_Machine_Learning-Predictive_Modeling-green):** Apply ML techniques to predict outcomes and gain deeper insights.
+- **![Math](https://img.shields.io/badge/📚_Mathematics-Theoretical_Underpinnings-purple):** Dive into the theoretical underpinnings of the paradox.
 
 #### 🛠️ Main Tools:  
 | ![Python](https://img.shields.io/badge/Python-3.12.10-blue) | 
