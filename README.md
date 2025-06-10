@@ -11,6 +11,6 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 #### 🛠️ Main Tools:  
 | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | 
 |---|
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit-Learn-Supervised_Binning-blue) |
+| ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Used-success) |
 
 🌍 **Language:** Spanish
