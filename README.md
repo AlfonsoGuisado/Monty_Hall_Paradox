@@ -13,4 +13,4 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 
 🌍 **Language:**
 
-![Idioma](https://img.shields.io/badge/🇪🇸-Español-red)
+![Idioma](https://img.shields.io/badge/Spanish-🇪🇸-red)
