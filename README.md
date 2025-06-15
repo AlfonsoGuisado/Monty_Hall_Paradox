@@ -5,7 +5,9 @@ Dive into the fascinating Monty Hall paradox! Explore it through simulation, app
 #### 🚩 Key Features:
 
 • **🎲 Simulation:** Visualize the paradox in action and understand its outcomes.
+
 • **🤖 Machine Learning:** Apply ML techniques to predict outcomes and gain deeper insights.
+
 • **📚 Mathematical Explanation:** Dive into the theoretical underpinnings of the paradox.
 
 #### 🛠️ Tools & Dependencies:  
