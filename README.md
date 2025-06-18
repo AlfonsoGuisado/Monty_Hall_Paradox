@@ -1,6 +1,8 @@
 # Monty Hall Paradox; Simulation, ML & Demonstration
 
-Dive into the intriguing Monty Hall Paradox: after picking one of three doors, the host reveals a goat behind another, offering a chance to switch. Our goal is to empirically prove the optimal strategy through a 10,000-iteration simulation, demonstrating that changing doors significantly increases winning chances. Additionally, we will train a Machine Learning model to learn and validate this strategy, confirming that the model also favors switching doors for a higher probability of winning the prize.
+Dive into the fascinating Monty Hall Paradox: You pick one of three doors, one hiding a prize, two hiding goats. The host, knowing where the car is, opens another door to reveal a goat. You're then offered to switch to the remaining unopened door. The paradox is that switching doors doubles your odds of winning the car.
+
+Our goal is to empirically prove through a 10,000-iteration simulation that changing doors significantly increases winning chances. Additionally, we will train a Machine Learning model to learn and validate this strategy, confirming that the model also favors switching doors for a higher probability of winning the prize.
 
 ![Idioma](https://img.shields.io/badge/Notebooks_Language-Spanish-red)
 
@@ -17,4 +19,4 @@ Dive into the intriguing Monty Hall Paradox: after picking one of three doors, t
 
 | **Simulation** | **Predictive Modeling** |
 |---|---|
-| ![Simluation](assets/monty_hall_pie.png) | ![ML](assets/winningCambio_Puerta.png) |
+| ![Simluation](notebook/assets/monty_hall_pie.png) | ![ML](notebook/assets/winningCambio_Puerta.png) |
