@@ -13,10 +13,10 @@ Our goal is to empirically prove through a 10,000-iteration simulation that chan
 • **📚 Mathematical Explanation:** Dive into the theoretical underpinnings of the paradox.  
 
 #### 🛠️ Tools & Dependencies:  
-[![Python](https://img.shields.io/badge/Python-3.12.10-blue)](https://www.python.org/downloads/release/python-31210/) [![NumPy](https://img.shields.io/badge/NumPy-2.2.4-green)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-2.2.3-green)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.1-green)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-green)](https://seaborn.pydata.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.6.1-green)](https://scikit-learn.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.10-blue)](https://www.python.org/downloads/release/python-31210/) [![NumPy](https://img.shields.io/badge/NumPy-2.2.4-green)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-2.2.3-green)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.10.1-green)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-0.13.2-green)](https://seaborn.pydata.org/) [![Plotnine](https://img.shields.io/badge/Plotnine-0.14.6-green)](https://plotnine.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.6.1-green)](https://scikit-learn.org/)
 
 #### ✅ Outcomes:
 
 | **Simulation** | **Predictive Modeling** |
 |---|---|
-| ![Simluation](notebook/assets/monty_hall_pie.png) | ![ML](notebook/assets/winningCambio_Puerta.png) |
+| ![Simluation](notebook/assets/simulation.png) | ![ML](notebook/assets/prediction.png) |
