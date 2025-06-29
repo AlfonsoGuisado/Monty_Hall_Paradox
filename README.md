@@ -19,4 +19,4 @@ Our goal is to empirically prove through a 10,000-iteration simulation that chan
 
 | **Simulation** | **Predictive Modeling (Logistic Regression)** |
 |---|---|
-| ![Simluation](notebook/assets/simulation.png) | ![ML](notebook/assets/prediction.png) |
+| ![Simulation](notebook/assets/simulation.png) | ![ML](notebook/assets/prediction.png) |
